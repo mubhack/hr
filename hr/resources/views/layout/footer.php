@@ -1,0 +1,18 @@
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light py-4 mt-5">
+        <div class="container text-center">
+            <p class="mb-0">&copy; <?= date('Y') ?> HR Management System. All rights reserved.</p>
+            <small class="text-muted">Powered by MVC Architecture</small>
+        </div>
+    </footer>
+
+    <!-- Bootstrap 5 JS Bundle (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="<?= BASE_URL ?>assets/js/script.js"></script>
+    </body>
+
+    </html>
